@@ -1,0 +1,34 @@
+_repo: Walter-Sherwood-s-Probation_5993
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alger, Horatio
+    aliases:
+    - Preston, Charles F.
+    - Putnam, Arthur Lee
+    - Starr, Julian
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Self-reliance -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'West (U.S.) -- History -- 19th century -- Juvenile fiction'
+- !lcsh 'Wealth -- Juvenile fiction'
+- !lcsh 'Coming of age -- Juvenile fiction'
+- GITenberg
+title: Walter Sherwood's Probation
+url: http://www.gutenberg.org/ebooks/5993
